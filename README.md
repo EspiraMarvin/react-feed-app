@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+<img src="public/Screenshot.png" alt="Instagram Clone">
+
 In the project directory, you can run:
 
 ### `yarn start`
